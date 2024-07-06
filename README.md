@@ -36,7 +36,7 @@ This Project is a simple Ping-Pong Game written in python using OOP and the pyth
 
 * Language : Python
 
-* GUI : Python-turtle 
+* Graphics : Python-turtle 
 
 * Design Approach : Object Oriented Programming
 
