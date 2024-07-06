@@ -11,13 +11,12 @@
 
 ## Table of Contents
 
+
 * [Table of Contents](#table-of-contents)
 * [Introduction](#introduction)
 * [Technical Details](#technical-details)
-* [Key User Features](#key-user-features)
-* [Key Developer Features](#key-developer-features)
-* [UML Diagram](#uml-diagram)
-* [Project DEMO](#project-demo)
+* [Project Demo](#project-demo)
+
 
 <!-- }}} -->
 
@@ -53,7 +52,6 @@ This Project is a simple Ping-Pong Game written in python using OOP and the pyth
 <img src="img/ping-pong-demo.gif" width="750" height="600" />
 
 <!-- }}} -->
-
 
 
 
