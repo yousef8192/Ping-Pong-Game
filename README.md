@@ -3,7 +3,7 @@
 
 
 <br/>
-<br/><img src="img/ping-pong-screenshot.png" alt="drawing" style="width:600px;"/><br/>
+<img src="img/ping-pong-demo.gif" width="750" height="600"/>
 <br/>
 
 
@@ -52,6 +52,7 @@ This Project is a simple Ping-Pong Game written in python using OOP and the pyth
 <img src="img/ping-pong-demo.gif" width="750" height="600" />
 
 <!-- }}} -->
+
 
 
 
